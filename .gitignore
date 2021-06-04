@@ -1,0 +1,9 @@
+# IDE-settings
+.idea
+*.iml
+
+# temp build folders
+target
+
+# secret credentials
+src/main/resources/config.properties
